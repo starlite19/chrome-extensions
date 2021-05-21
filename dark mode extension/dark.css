@@ -1,0 +1,75 @@
+@charset "utf-8";
+body, h1, h2, h3, .ellipsible, .ig-row, .ig-title, input, select, div.navigation-tray-container {
+    background-color: #121212 !important;
+    color: #FAF9F6 !important;
+}
+
+p, #section-tabs a.active, .ctrLD_bGBk, .mini-cal-header button, .mini-cal-header span, td, span div, #GradeSummarySelectMenuGroup span, div.PlannerItem-styles__type span, div.PlannerItem-styles__due span span, div.PlannerEmptyState-styles__subtitle, .fc-day-header, .fQfxa_biBD {
+    color: #FAF9F6 !important;
+}
+
+span, div.header-bar, .item-group-container, #breadcrumbs, table, #syllabusContainer, .pinned-discussions-v2__wrapper, .unpinned-discussions-v2__wrapper, .ic-discussion-row, .closed-for-comments-discussions-v2__wrapper, .discussions-v2__container-image, .ic-app-header__menu-list-item--active #global_nav_dashboard_link, .ic-notification__content, .ic-Dashboard-header__layout, .Day-styles__root, table.summary th, table.summary td, div.ac-input-box, ul.messages.unstyled.collectionViewItems li, #minical, #context-list li, #undated_events_list li, .ic-app-header__menu-list-item--active #global_nav_calendar_link, .ic-app-header__menu-list-item--active #global_nav_conversations_link {
+    background-color: #121212 !important;
+}
+
+.btn, span form[action="/logout"] button, #add-announcement, td.fc-state-highlight {
+    background: #6f7274 !important;
+    color: #FAF9F6 !important;
+}
+
+button.ic-app-header__menu-list-link {
+    background: #002a5c !important;
+    color: #FAF9F6 !important;
+}
+
+.ic-app-header__menu-list-item--active button, .PlannerHeader-styles__root {
+    background: #121212 !important;
+}
+
+.ig-header, .ig-header span, .ig-header span span.name, .ig-header-title, button.element_toggler, header.panel {
+    background-color: #6f7274 !important;
+    color: #FAF9F6 !important;
+}
+
+svg path, .ic-app-header__menu-list-item--active button div svg path, .ic-app-header__menu-list-item--active #global_nav_dashboard_link div.menu-item-icon-container svg path, .ic-app-header__menu-list-item--active #global_nav_conversations_link div.menu-item-icon-container svg path {
+    fill: #FAF9F6 !important;
+}
+
+span a, a span, button, #section-tabs a, td a, p a, div.ic-Action-header__Secondary a {
+    background-color: #121212 !important;
+    color: #BB86FC !important;
+}
+
+th a, ul li a, h3 a, .ic-app-header__menu-list-item--active div.menu-item__text, div.h2.shared-space a {
+    color: #BB86FC !important;
+}
+
+#syllabus td a {
+    background-color: #6f7274 !important;
+    color: #BB86FC !important;
+}
+
+td.mini_calendar_day.day.today, td.mini_calendar_day.day.today div span.day_number, #syllabus tr.date.date_passed td, #syllabus td span, span.message-count.label, span.ui-button-text {
+    background-color: #6f7274 !important;
+}
+
+img {
+    filter: brightness(.8) contrast(1.2) !important;
+}
+
+li.menu-item.ic-app-header__menu-list-item {
+    background-color: #002a5c !important;
+}
+
+div.summary, span.context, div.message-metadata.clearfix div.date {
+    color: #d3d3d3 !important;
+}
+
+button.active {
+    background: #585858 !important;
+}
+
+#document .pure-button-primary{
+    background-color: #BB86FC !important;
+    color: #121212 !important;
+}
